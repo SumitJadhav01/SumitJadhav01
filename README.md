@@ -3,7 +3,7 @@
  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=996&center=true&random=false&width=435&lines=FULL+STACK+DEVELOPER" alt="Typing SVG" /></a></h2>
 
 <img alt="Coder" align="right" width="400"
-     src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+     src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
  
 <h3 align="center">A passionate Full Stack Developer from India</h3>
